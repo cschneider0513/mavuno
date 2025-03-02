@@ -44,5 +44,5 @@ predigten:
     predigt: >- 
       https://res.cloudinary.com/mavuno/video/upload/v1740312869/predigten/2025-02/20250223_Interview_Daniel_4_Phasen_des_Sabbaticals.mp3
     date: 2025-02-23 11:00:00
-    prediger: Daniel  
+    prediger: Daniel Flechsig 
 ---
